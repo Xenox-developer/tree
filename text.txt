@@ -1,0 +1,13 @@
+4
+Ivanov I. I.
+teacher
+2011
+Petrov A. I.
+programmer
+2020
+Smirnov T. F.
+doctor
+2000
+Serov S. R.
+artist
+1999
